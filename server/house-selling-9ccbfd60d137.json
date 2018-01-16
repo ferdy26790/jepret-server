@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "house-selling-190910",
+  "private_key_id": "9ccbfd60d13759794835dd93e27a3c6d8f153783",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmiLMgwlou/uWC\nyYf9QrEQYanqqRHtCuvh4kXad1bZoZOxXL4igK9/7FCuihjtbe/QDagwJib9ratj\nFku+hOcAN3rINU8ekcpt7Ft4eg68Ou/OxnD4GCppe5Q6+wRQ34gh4aMoh9b30f2V\nT1iax2emXNhakLe3eLs7YVF8q9QPnbGe9zUAtHS051Z3Y9PjKQlOGsd9ywToXftH\nN86Iltz+7tMhcha/IsEF/ct+uPKSBmiCVcUoh2F2OGnZ1cAcjUfkJQWuvblwo1K1\n+jrGm7qaQBOyU+6o7WHB9NCo06jRVyCXmKjhuz80rZFH+rPkXy6u/wAivOrsdPkG\nTB0tuQh/AgMBAAECggEALhJ1lCOQtZ25OzSsFankuIZ8bro1hmHWHljuQGFxuqXT\n6WaiB4OYigiDzbXQ7abTiLiuhhuX/+iTGMerTtsP2WR/6HGvIOLuoPiZ2bvS5cpc\nW9VUnZ555VLWEHcvm3wr+kulSupB06/ZuvwHpFJ0X3ciN/P/j5esHOJwm9Ahy+u+\ninXxrXCfonG4CtVrhbNC2fFG7E2wR9JOPGj8+w//czzhHauQ1SJ0KjfdugXU9tVr\ncQVYnSSib8G4YpilOK6bNc17wHCoyIJ9ZScDOxPJ9Tp6Jx3k2qLKjdoyM5Lh74N4\nCwdymb4kVxhaq7XjgQGmSRcXuA7L1Q3iHpXMCyMSuQKBgQDo+vXsxg1UsttGX40m\nPvSCLOoSzZ+dnZ6oxyzLqX/XsZGlO4t3CG/I9kxGEJQHUKHMNesP7KdghL5czOLE\nDZ7ng9T0QVkVs9tGDcAynXeBHUz7fo/rI8mZL6a2XNcPmZyuB4FrB783v7SpFTuY\n/mFS0rXzKeK3beUIQ4+yY969dQKBgQC2/QkWmAGocYPqhw0TV5wzBGJ+MWV39bnM\n/ZN0yVxBXPJ81Qv2d8dab61XtobdqcI3/NQSkhz6OyLDL+wyGl7PsDR8JK+q0rDl\nFdgtt5tLIx2L3+U5H8uXM2XHwfe/kx4t9qXMBIeynBZn6GnrWHS5+jo2vD6Mu0QP\nXXVRF4zrowKBgQCrFOaUGRde8/v7IF1pEV/BW7QDXMVyG3WPoLrvTyeWv0khWalf\nHm3f16VI6hGZkYdOiuVzCygZw0B6quV2bD4c6fzt5DLDshA50A0r3eAMivSl1Vlf\npSb7+zbjwScXyIh6bv6FFuo+yOKkKvhZr6rOA/ciecaHRgaiW+Jgb9/3pQKBgQCY\n5zLy6C1qfQAHtrWcVfa1QpKyc8AfzvpkafcO/TrTe0E8QiFu34N69BpaUrC7BCC/\n+8mRgvontcZEZwTskNBspwYUPetzx/38TpaHDQb8b+k+eeXmJ8VNIKuJkXDdaacs\nLQ85PQfOnVKznKb0+sL+rDJ8jiuOGOS0GhnvmsgsFQKBgBu4lDEF0kZAbF6VHpeY\nrhmLqkCj7f+e1/2PxuVNAbM7dlBS0+YmfyiBz53x4fqddHdn8bB+yVlCnXOGNUiG\nlb4/2nuJQw2s0aUgkljAWOvzhnM0ZTnaJnmyq78OfBsOvQoXFnsz4Vc0p7lmaO0Z\nUaX6Q+t9Luk8MDhekVTH1VW7\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-key-1@house-selling-190910.iam.gserviceaccount.com",
+  "client_id": "107718779141911977055",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-key-1%40house-selling-190910.iam.gserviceaccount.com"
+}

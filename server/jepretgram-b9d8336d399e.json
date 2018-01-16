@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jepretgram",
+  "private_key_id": "b9d8336d399e28070307c28e9d8dfbd91a832803",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxDiLy+RzPDpxU\nkMjYoJT5hHaRUIoSgRiBsxNLWOHQSl4lb7/WRE0r72vOheYXIll7AfrZ+Ns2VBGq\n8AtgmtJsvG5YsZEJX0EAvKwHbbaacP8Yq+vBnlNASgvIw3zC3Tb1odiakgJPJIaL\n9Qx0rZHPFcLEiSjMgQsF2FJfsR23ultIjnJJnRGaOCGVvNtKM16uKaVQhBqpoag0\nimN21Gm9Iy7ZLiwnBkEyJ1qXlRHhTlspRS3GIMYBPWMrVqWrXo+i3Nai8ut6JAqG\nGAWxBdHmxXTRSj24HO3Kt/krU6+3dtszkeU/PUXM67hLRm3r2nLO6f9CKwvO2uQv\nMSzJQU7TAgMBAAECggEAAhFL+qjQrdssUoIazMydWqYBInPOS6BnZisAxXaAjwqr\n2ffr/HQ0isjHLVeshKGkLNwaUiwdL5mJrRbXI+8cbbavN9ylERt/oSLuU0C9VEUu\nb7Zj9S++YxZOFRETJn4n6+5AKypMhI6BzYdP7EgHFFGwkWZa08eVU6GZavEtC3NO\nzcXcF+PwrozHbSu9RlIxCl7/nVDg1zI6QaiDEtTyk2D2Yp+KsUDucxUlLAeHlCdk\n86USN3j93yvOQXLUCyegEbdYjEK6uzGHKG/U91eS/SnWLRaoVOsXHdCajwXunoYQ\nrrm8L64WyRqZSch4VMfQLMCqogFWX/QbIFROFASOgQKBgQDdOZLN9XcTmcmyqGvd\n6IBCJz6Xtz4vYK2M9pAdFhLr4dQCWH6QRxeSVIaOWKIWmsTAald6VuZuNaZ9e8Qw\nGjrhxhr1vrK2GCV+5fDH0yC4rl3QYa/mEZRL2hW/WP6SssEN5vSWN7k16LhZwoWu\nHRfvxRyJ81XNE30EVPFwcrS7gQKBgQDM4xur9ml7ee7+p1FFU+yvRjG9+AtFxouf\nCRd9j1EQqr7XlNYhdWIE9toAK9KoXEP10E6iYEG8+fZsRV7YNC+fXUiUbfNGaaAI\nn3KmNsnB6iYwUOZlttTCvL5bz6K3/R049eK/f9BVMmbtV/zyI3gA+zuk8wd8Hqxi\nf5rpTPqEUwKBgQCwhND74CIslKiZEsRHI867el76Ze+LlEPG17J0Uvm0F9S4Lm6G\npwNK8oEPMe/bw5C8y92TM6XYSJzZQZlwnG1hW1aFwa0NmUTJ9aXjfDZ+xjr7HAdj\nt6ExyQlTTiqLWXCrrB57gmkZd+EpVgqevH4uBoTYGj7bTPKTM0gXZp+JgQKBgQCw\nyPVDd6akaB2TlQNG8pcy1TpuU+xGFH68hrfCGzszSmDI2x+4VvRwnB6WLznhE1uA\nanCvIqcWTAgYe/LOUpkUxQSvLf/PLaxsREhEqtmDfGnfHq7t7MfAD+OgjJQ2dSwV\nzfQMkFhOauLswBL9SyVsk1pvhVNcAYt0oe4kh8tRCQKBgEpDECqsLG+GMXgle+QQ\nqALltEbiB7Y5u6v/+bZaKmpRk90gv9BNnE8kpsErmO0MZpoRcnnzJFyPo0ynqUcj\nsTG6nsAkDwpu9doTshQGjA93tYb7MzGD4qjhpBLnEUk5RiU4DyLyD6GyKdBi5CV1\nG0ybInup1EjyAuzA9AYuuP+Q\n-----END PRIVATE KEY-----\n",
+  "client_email": "jepretgram@jepretgram.iam.gserviceaccount.com",
+  "client_id": "102367135309343976439",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jepretgram%40jepretgram.iam.gserviceaccount.com"
+}
